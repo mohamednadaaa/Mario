@@ -333,6 +333,16 @@ Prefab:
       propertyPath: m_SortingLayer
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114643242208798078, guid: 9c25a7adc665a6844bc6f8d6f8005105,
+        type: 2}
+      propertyPath: flySpeed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 114643242208798078, guid: 9c25a7adc665a6844bc6f8d6f8005105,
+        type: 2}
+      propertyPath: airSpeed
+      value: 0.6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9c25a7adc665a6844bc6f8d6f8005105, type: 2}
   m_IsPrefabParent: 0

@@ -9,8 +9,8 @@ public class PlayerController : MonoBehaviour {
 	public float maxVelocityY = 5f;
 
 	private bool grounded;
-	public float flySpeed = 15f;
-	public float airSpeed = 0.3f;
+	public float flySpeed = 20f;
+	public float airSpeed = 0.6f;
 
 	private Rigidbody2D myBody;
 	private Animator anim;
